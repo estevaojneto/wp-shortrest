@@ -1,0 +1,12 @@
+{
+    "name": "shortrest/wp-shortrest",
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "SR\\": "src/"
+        }
+    }
+}

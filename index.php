@@ -1,0 +1,1 @@
+<?php // Rest is golden.
