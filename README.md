@@ -11,7 +11,7 @@ You no longer have to write code to consume an API's contents and put it in your
 
 2) Create a new "ShortRest Request" and configure it accordingly (take notice of its post ID):
 
-![image](https://github.com/estevaojneto/wp-shortrest/assets/37549773/7505de53-92f2-4834-a84a-fa7a31bb589b)
+![image](https://github.com/estevaojneto/wp-shortrest/assets/37549773/30f29925-069b-4f05-a0a8-147c7b6d778b)
 
 
 3) Paste in the "sr_request" shortcode with the ID of the Request and the field you'd like to see in the frontend:
