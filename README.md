@@ -20,5 +20,5 @@ You no longer have to write code to consume an API's contents and put it in your
 
 
 4) Ta-da!
-5) 
+
 ![image](https://github.com/estevaojneto/wp-shortrest/assets/37549773/c2ad1964-0404-4fc8-a4ae-3248d94881ca)
